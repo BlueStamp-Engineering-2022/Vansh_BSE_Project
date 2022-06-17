@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Vansh Chhabra | Amador Valley High School | Computer Scientist | Incoming Sophomore
+| Vansh | Amador Valley High School | Computer Scientist | Incoming Sophomore
 
 ![Headstone Image](https://user-images.githubusercontent.com/86122440/174337266-ef4d94c2-650c-481b-80ae-629e4883cbdd.jpg)
 
