@@ -16,7 +16,7 @@ While getting information from the ultrasonic sensor, if the ultrasonic sensor d
 # Second Milestone
 My second milestone is I trained a cascade model to detect a mouth. I took videos of people and cropped the video to show just the mouth. I then wrote a python program to take each frame of the video and save it as a JPG file. This images are used to train the model. I ran into an error where the images were taking up too much storage. This was because I recorded the videos in 4K. I changed the resolution to SD and split up the videos again so that the images would be a lower resolution. This fixed the storage problem. I also connect an ultrasonic sensor to detect the distance between someone and the location of the sensor. This will be part of the "Social Distancing" section of this project. I programmed the ultrasonic sensor to detect the distance and return it.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 2 (Vansh)](https://res.cloudinary.com/marcomontalbano/image/upload/v1655865952/video_to_markdown/images/youtube--F6Ylq4hyFZg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=F6Ylq4hyFZg "Milestone 2 (Vansh)")
 # First Milestone
   
 
