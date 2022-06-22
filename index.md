@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Vansh | Amador Valley High School | Computer Scientist | Incoming Sophomore
+| Vansh | Amador Valley High School | Computer Science/Robotics | Incoming Sophomore
 
 ![Headstone Image](https://user-images.githubusercontent.com/86122440/174337266-ef4d94c2-650c-481b-80ae-629e4883cbdd.jpg)
 
@@ -23,3 +23,9 @@ My second milestone is I trained a cascade model to detect a mouth. I took video
 My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my monitor. The PiCamera2, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. I downloaded everything using an Imager. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi 4's OS. With the included SD card, I plugged in the SD into my computer and launched the Imager. The software was on the SD card and I put into into my Raspberry Pi. I hooked up my Raspberry Pi to a monitor, a mouse and keyboard, and I attached a camera to it that works. I finished programming and configuring the camera to work in my program. I plan to add a few more features and find a way to combine the camera with OpenCV, which I plan on using for my code.
 
 [![Vansh C Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1655742475/video_to_markdown/images/youtube--gi3A0_u5tSw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gi3A0_u5tSw "Vansh C Milestone 1")
+
+# Starter Project
+
+The switch lets the current run through the circuit. There is also an indicator LED to show that current is indeed running through the circuit. There are a few resistors to regulate the current. The capacitor temporarily stores energy. There are two different ones on this circuit. The small yellow one is called a ceramic capacitor. Ceramic capacitors are mainly used for high stability performances and low-loss devices. The black one, which is shaped like a cylinder, is called an electrolytic capacitor. Electrolytic Capacitors are generally used in DC power supply circuits due to their large capacitance and small size to help reduce the ripple voltage or for coupling and decoupling applications. The driver transistor is a semiconductor, amplifying the electrical signals. The ceramic oscillator helps keep time for the microcontroller. Finally, since TV’s use IR, we will use IR LED’s to communicate with the TV to turn it off. They use something called the NEC Protocol. The NEC protocol uses pulse distance encoding of the bits. Each pulse is a 560µs long 38kHz carrier burst There are two pairs of IR LEDs: blue ones and clear ones. The clear ones give a wide range while the blue ones have a long range. Together, you can communicate with many TV’s!
+
+[![Starter Project (Vansh)](https://res.cloudinary.com/marcomontalbano/image/upload/v1655865764/video_to_markdown/images/youtube--nPgLDdedv0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=nPgLDdedv0A "Starter Project (Vansh)")
