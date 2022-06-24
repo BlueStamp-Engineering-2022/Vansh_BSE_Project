@@ -1,5 +1,5 @@
 ﻿# Mask/Social Distancing Detection Construct
-COVID-19. A scary disease killing millions of people. Everyone is wearing masks, but it's hard to breath in them so they take them off. This increases the percentage of people infected by COVID-19. How do I know if I have come into contact with someone who isn't wearing a mask? With this machine, all your problems will dissappear.
+COVID-19. A scary disease killing millions of people. Everyone is wearing masks, but it's hard to breathe in them so many take them off. This increases the percentage of people infected by COVID-19. How do I know if I have come into contact with someone who isn't wearing a mask? With this machine, all your problems will disappear.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
